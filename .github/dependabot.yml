@@ -8,7 +8,7 @@ updates:
       - "dependency"
     assignees:
       - "cdce8p"
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 0  # 10
     rebase-strategy: "disabled"
 
   - package-ecosystem: "github-actions"
@@ -19,5 +19,5 @@ updates:
       - "dependency"
     assignees:
       - "cdce8p"
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 0  # 10
     rebase-strategy: "disabled"
